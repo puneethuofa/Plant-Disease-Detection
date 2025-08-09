@@ -104,10 +104,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Thanks to [PyTorch](https://pytorch.org/) for the deep learning library.
 - Special thanks to the creators of the dataset used for training the model.
 
----
-
-## 📧 Contact
-
-For questions or feedback, feel free to reach out:
-
-- **Udit Mahato**: [GitHub](https://github.com/uditmahato) | [Email](mailto:uditmahato29271@gmail.com)
